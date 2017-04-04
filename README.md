@@ -12,7 +12,8 @@ npm install --save t2e2t
 
 See `examples/` for different use cases.
 
-Transform textToEntity("Têxt tõ entitîes") => "T&ecirc;xt t&otilde; entit&icirc;es
+Transform textToEntity("Têxt tõ entitîes") => "T&ecirc ;xt t&otilde ; entit&icirc ;es
+
 Transform entityToText("T&ecirc;xt t&otilde; entit&icirc;es") => "Têxt tõ entitîes"
 
 ## License
